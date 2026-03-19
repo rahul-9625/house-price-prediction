@@ -91,16 +91,6 @@ jupyter notebook notebooks/data_wrangling.ipynb
 
 ---
 
-## 👤 Author
-
-**[Vivek Kumar Tiwari]**
-Data Analytics Intern — ApexPlanet Software Pvt. Ltd.
-📧 vkt.vivek007@gmail.com
-🔗 [LinkedIn](https://linkedin.com/in/vkt16/) | [GitHub](https://github.com/Virvivek007/)
-
----
-
-## 🏢 Organization
 
 **ApexPlanet Software Pvt. Ltd.**
 🌐 [www.apexplanet.in](https://www.apexplanet.in)
